@@ -19,4 +19,4 @@ The current installation method for these packages is to pull them in using
     wget https://github.com/sgerrand/alpine-pkg-php5-memcached/releases/download/2.2.0-r0/php5-memcached-2.2.0-r0.apk
     apk add php5-memcached-2.2.0-r0.apk
 
-[php-mongo]: https://pecl.php.net/memcached
+[php-memcached]: https://pecl.php.net/memcached
